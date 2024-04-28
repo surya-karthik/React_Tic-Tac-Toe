@@ -1,0 +1,10 @@
+:root{
+  --yellow: #ffc107;
+  --resetGreen:rgba(15, 231, 76, 0.467);
+  
+
+}
+
+body{
+  background-color: black;
+}
